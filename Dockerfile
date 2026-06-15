@@ -11,3 +11,5 @@ COPY seqClass.py /scripts/seqClass.py
 RUN chmod +x /scripts/seqClass.py
 
 ENV PATH="/scripts:${PATH}"
+
+ENTRYPOINT ["seqClass.py"]
