@@ -1,0 +1,2 @@
+# Folder to store results
+# from ChIP-seq hands-on session

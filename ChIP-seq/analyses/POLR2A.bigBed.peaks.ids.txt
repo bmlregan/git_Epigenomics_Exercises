@@ -1,0 +1,2 @@
+ENCFF477DXO	sigmoid_colon	POLR2A-human
+ENCFF979WAV	stomach	POLR2A-human
